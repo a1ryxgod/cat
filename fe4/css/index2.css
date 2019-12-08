@@ -1,0 +1,38 @@
+
+.fff2{
+    display: inline-block;
+    border: 5px solid rgb(72, 255, 0);
+    margin: 10px;
+    background-color: brown
+
+}
+
+.class1{
+    background-color: rgb(255, 0, 157);
+    width: 400px;
+    height: 500px;
+    display: inline-block;
+    border: 5px solid blue;
+    margin: 10px;
+padding: 10px;
+}
+.r355{
+    margin-left: 15%;
+}
+li{
+    display: inline-block;
+    width: 100px;
+    height: 10px;
+   
+}
+header{
+    background-color: lawngreen;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -20px;
+    height: 50px;
+}
+footer{
+    background-color: darkcyan
+}
+body{background-image: url(https://i.pinimg.com/originals/14/83/20/14832097f59b84ce5454d6a2d273c51e.jpg)}
